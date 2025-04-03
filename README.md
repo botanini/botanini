@@ -11,11 +11,15 @@
 <!-- Social Icons -->
 <p align="center">
   <a href="https://website-5mfrwfxoy-liyyngs-projects.vercel.app">
-    <img height="30" src="https://cdn.simpleicons.org/vercel/0A66C2" />
+    <img height="30" src="https://cdn.simpleicons.org/vercel/ffffff" />
   </a>
   <a href="https://www.linkedin.com/in/llyy/">
-    <img height="30" src="https://cdn.simpleicons.org/linkedin/0A66C2" />
+    <img height="30" src="https://cdn.simpleicons.org/linkedin/ffffff" />
   </a>
+  <a href="https://www.instagram.com/sheep.posts/">
+    <img height="30" src="https://cdn.simpleicons.org/instagram/ffffff" />
+  </a>
+</p>
 </p>
 
 ---
