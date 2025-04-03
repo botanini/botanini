@@ -27,6 +27,7 @@ role: student learning
 pronouns: she/her
 interests: 
   - Web Development
-  - AI and Machine Learning
+  - Game Development
+  - UI/UX Design
 currently_learning: 
   - how to make a game
