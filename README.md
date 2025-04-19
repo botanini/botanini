@@ -34,4 +34,5 @@ interests:
   - Game Development
   - UI/UX Design
 currently_learning: 
-  - how to make a game
+  - How to make a Game
+  - AWS Cloud Practioner
